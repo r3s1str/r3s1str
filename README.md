@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @r3s1str
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C and C#
-- 📫 How to reach me ... (haha u can't reach me)
+- 🌱 I’m currently learning C/C++ and C#
 
 <!---
 r3s1str/r3s1str is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
